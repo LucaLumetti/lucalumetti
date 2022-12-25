@@ -26,7 +26,7 @@ You can find more about me in my CV at my [Unimore personal page](https://person
 <p align="center" style="font-weight:bold"> 🎅 <b>Advents of Code</b> <p>
   
 ---
-* [`AdventOfCode2022`](https://github.com/LucaLumetti/AdventOfCode2022) : ..._ongoing_...
+* [`AdventOfCode2022`](https://github.com/LucaLumetti/AdventOfCode2022) : 25 solutions in Python.
 * [`AdventOfCode2021`](https://github.com/LucaLumetti/AdventOfCode2021) : 16 solutions in Javascript.
 * [`AdventOfCode2020`](https://github.com/LucaLumetti/AdventOfCode2020) : 25 solutions in Python.
 * [`AdventOfCode2019`](https://github.com/LucaLumetti/AdventOfCode2019) : 23 solutions in Javascript, other solutions in Python and C.
