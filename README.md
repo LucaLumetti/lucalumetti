@@ -18,6 +18,7 @@ You can find more about me in my CV at my [Unimore personal page](https://person
 <p align="center" style="font-weight:bold"> 🚀 <b> Contributions </b> <p>
 
 ---
+* [`Pytorch`](https://github.com/LucaLumetti/pytorch) : Fixed torchgen that would cause a bug in keyword arguments naming for `torch.where()`
 * [`TorchIO`](https://github.com/LucaLumetti/torchio) : implemented Hann windows functions as aggregator mode.
 * [`hyprpicker`](https://github.com/LucaLumetti/hyprpicker) : bug fixing.
 * [`tldr`](https://github.com/LucaLumetti/tldr) : translated some of the commands.
