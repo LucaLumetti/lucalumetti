@@ -10,6 +10,7 @@ You can find more about me in my CV at my [Unimore personal page](https://person
 <p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects </b> <p>
 
 ---
+* [`ToothFairy`](https://github.com/AImageLab-zip/ToothFairy) : MICCAI 2023 Challenge on the segmentation of the Inferior Alveolar Canal through CBCT images.
 * [`Alveolar Canal`](https://github.com/AImageLab-zip/alveolar_canal) : 3D segmentation of the Inferior Alveolar Canal through CBCT images.
 * [`Deep Facial Inpainting`](https://github.com/LucaLumetti/Deep-Facial-Inpainting) : remove the surgical mask in selfies employing GANs.
 * [`DQNTS`](https://github.com/LucaLumetti/DQNTS) : implementation of Tabu Search guided by a Deep Q-Network to solve the Max Mean Dispersion Problem
