@@ -2,7 +2,7 @@
 
 💻 I'm Luca Lumetti, a `Ph.D. student in ICT` at UniMoRe. My topic is about `Healthcare applications of Artificial Intelligence, Computer Vision and Medical Imaging` and I'm currently working on the `segmentation of the Inferior Alveolar Canal through CBCT images`. A 3D segmentation of such canal is really important because it hosts the Inferior Alveolar Nerve, which must not be damaged during surgical operations.
 Prior to my Ph.D., I've obtained an `MSc and BSc degree in Computer Engineering`, with a focus on the `Artificial Intelligence` field.
-In the past, I've been an active contributor in the `web team` of `Ubuntu-IT`, a part-time professor in high school teaching IT subjects, and a freelance developer building websites.
+In the past, I've been an active contributor in the `web team` of `Ubuntu-IT`, a part-time professor in high school teaching IT subjects, and a freelance fullstack developer.
   
 You can find more about me in my CV at my [Unimore personal page](https://personale.unimore.it/rubrica/dettaglio/244577)
   
