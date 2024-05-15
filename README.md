@@ -4,7 +4,7 @@
 Prior to my Ph.D., I obtained an `MSc and BSc degree in Computer Engineering`, with a focus on the `Artificial Intelligence` field.
 In the past, I've been an active contributor in the `web team` of `Ubuntu-IT`, a part-time professor in high school teaching IT subjects, and a freelance full-stack developer.
   
-You can find more about me on my my personal website [https://lucalumetti.it](https://lucalumetti.it).
+You can find more about me on my personal website [https://lucalumetti.it](https://lucalumetti.it).
   
 <br />
 <p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects </b> <p>
