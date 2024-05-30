@@ -10,6 +10,7 @@ You can find more about me on my personal website [https://lucalumetti.it](https
 <p align="center" style="font-weight:bold"> 🔨 <b> Most interesting projects </b> <p>
 
 ---
+* [`Ditto`](https://ditto.ing.unimore.it): A web application written in Django to host the databases developed by my research group while collecting related statistics.
 * [`ToothFairy 2`](https://github.com/AImageLab-zip/ToothFairy/tree/main/ToothFairy2): MICCAI 2024 Challenge on the segmentation of 42 classes through CBCT images of the jaws.
 * [`ToothFairy`](https://github.com/AImageLab-zip/ToothFairy/tree/main/ToothFairy): MICCAI 2023 Challenge on the segmentation of the Inferior Alveolar Canal through CBCT images.
 * [`Alveolar Canal`](https://github.com/AImageLab-zip/alveolar_canal): 3D segmentation of the Inferior Alveolar Canal through CBCT images.
