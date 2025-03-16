@@ -1,6 +1,6 @@
 <p align="center" style="font-weight:bold"> 👋 <b>Hi there!</b> <p>
 
-💻 I'm Luca Lumetti, a `Ph.D. student in ICT` at UniMoRe. My topic is `Healthcare applications of Artificial Intelligence, Computer Vision and Medical Imaging` and I'm currently working on the `segmentation of the Inferior Alveolar Canal through CBCT images`. A 3D segmentation of such canal is really important because it hosts the Inferior Alveolar Nerve, which must not be damaged during surgical operations. Other topics I am currently working on regards segmentation of 3D medical volumes in general and Whole-slide image classification.
+💻 I'm Luca Lumetti, a `Ph.D. student in ICT` at UniMoRe. My topic is `Healthcare applications of Artificial Intelligence, Computer Vision and Medical Imaging`, and I am currently working on the segmentation of maxillofacial CBCT volumes. Check out [ToothFairy Challenges](https://github.com/AImageLab-zip/ToothFairy) and [ODIN Workshop](https://odin-workshops.org/2025/) for more details.
 Prior to my Ph.D., I obtained an `MSc and BSc degree in Computer Engineering`, with a focus on the `Artificial Intelligence` field.
 In the past, I've been an active contributor in the `web team` of `Ubuntu-IT`, a part-time professor in high school teaching IT subjects, and a freelance full-stack developer.
   
